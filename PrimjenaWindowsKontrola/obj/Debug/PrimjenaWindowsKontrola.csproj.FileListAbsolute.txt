@@ -1,0 +1,12 @@
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\bin\Debug\PrimjenaWindowsKontrola.exe.config
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\bin\Debug\PrimjenaWindowsKontrola.exe
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\bin\Debug\PrimjenaWindowsKontrola.pdb
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.Form1.resources
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.Form2.resources
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.Properties.Resources.resources
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csproj.GenerateResource.cache
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.exe
+C:\Users\unkno\source\repos\PrimjenaWindowsKontrola\PrimjenaWindowsKontrola\obj\Debug\PrimjenaWindowsKontrola.pdb

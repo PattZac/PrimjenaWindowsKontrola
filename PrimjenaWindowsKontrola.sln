@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimjenaWindowsKontrola", "PrimjenaWindowsKontrola\PrimjenaWindowsKontrola.csproj", "{701F3BA1-9FE0-4906-92BF-37FA166B28AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701F3BA1-9FE0-4906-92BF-37FA166B28AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701F3BA1-9FE0-4906-92BF-37FA166B28AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701F3BA1-9FE0-4906-92BF-37FA166B28AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701F3BA1-9FE0-4906-92BF-37FA166B28AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A57F352-F52C-4988-A223-65A9DD3C501B}
+	EndGlobalSection
+EndGlobal
